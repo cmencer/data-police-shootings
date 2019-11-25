@@ -4296,7 +4296,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4727,Esteban Martinez,2019-05-19,shot,unknown weapon,59,M,H,Huron,CA,False,attack,Not fleeing,False
 4736,Lori Markham,2019-05-19,shot,gun,47,F,W,Carlsbad,NM,False,attack,Not fleeing,False
 4742,Ronnie Churches,2019-05-19,shot,gun,45,M,O,Miami Gardens,FL,False,attack,Not fleeing,False
-4723,Michael Ann Godsey,2019-05-20,shot,gun,34,F,,Blackwell,OK,False,attack,Car,False
+4723,Michael Ann Godsey,2019-05-20,shot,gun,34,F,W,Blackwell,OK,False,attack,Car,False
 4724,Carlos Javier Roman Santiago,2019-05-20,shot,knife,46,M,H,Archdale,NC,False,attack,Not fleeing,False
 4726,Enosa Strickland,2019-05-20,shot,knife,26,M,B,Auburn,WA,False,attack,Not fleeing,False
 4741,Juan Antonio Sillas,2019-05-21,shot,hammer,21,M,H,Los Angeles,CA,False,other,,False
@@ -4369,7 +4369,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4797,Josh Flores,2019-06-18,shot,knife,18,M,H,Centralia,WA,False,other,Not fleeing,False
 4798,Michael Sheridan,2019-06-18,shot,gun,34,M,,Friendly Hills,CO,False,attack,Not fleeing,False
 4799,DeWayne Watkins,2019-06-18,shot,toy weapon,74,M,B,Syracuse,NY,False,attack,Not fleeing,False
-4965,Eric Portillo,2019-06-20,shot,gun,38,M,,Tulsa,OK,False,attack,Car,True
+4965,Eric Portillo,2019-06-20,shot,gun,38,M,H,Tulsa,OK,False,attack,Car,True
 4800,Juan Carlos Chapa,2019-06-20,shot,gun,33,M,H,Mission,TX,False,attack,Foot,False
 4806,Kevin Anthony Alaniz,2019-06-22,shot,gun,26,M,H,Big Sur,CA,False,attack,,False
 4807,Scott William Robertson,2019-06-22,shot,gun,41,M,W,Phoenix,MD,False,other,,True
@@ -4566,7 +4566,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5017,TK TK,2019-09-07,shot,knife,,M,,Nacogdoches,TX,False,other,Not fleeing,False
 5015,Christopher Johnson,2019-09-08,shot,undetermined,51,M,,Longview,WA,True,other,Not fleeing,False
 5016,Bennie Branch,2019-09-08,shot,toy weapon,24,M,B,Tacoma,WA,False,undetermined,Foot,False
-5024,Quentin Broadus,2019-09-09,shot,gun,,M,,Oklahoma City,OK,False,attack,Other,False
+5024,Quentin Broadus,2019-09-09,shot,gun,,M,B,Oklahoma City,OK,False,attack,Other,False
 5025,Kristopher Fitzpatrick,2019-09-09,shot,gun,41,M,,Aberdeen,WA,False,attack,Foot,False
 5027,Hector Miranda,2019-09-09,shot,gun and knife,47,M,,Phoenix,AZ,False,attack,Not fleeing,False
 5022,Bobby Ray Duckworth,2019-09-10,shot,undetermined,26,M,,Wellington,UT,True,undetermined,Not fleeing,True
@@ -4578,7 +4578,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5033,Robert E. Domine,2019-09-13,shot,gun,77,M,W,Loyal,WI,False,attack,Not fleeing,False
 5039,Nicholas Walker,2019-09-14,shot,toy weapon,31,M,,Arlington,TX,False,attack,Not fleeing,False
 5042,Melvin Watkins,2019-09-14,shot,unarmed,54,M,,Baton Rouge,LA,False,undetermined,Not fleeing,False
-5036,Brian Dryer,2019-09-15,shot,knife,28,M,,Oklahoma City,OK,True,attack,Not fleeing,False
+5036,Brian Dryer,2019-09-15,shot,knife,28,M,W,Oklahoma City,OK,True,attack,Not fleeing,False
 5037,Ronald Davis,2019-09-15,shot,knife,31,M,B,St. Paul,MN,False,attack,Not fleeing,True
 5040,TK TK,2019-09-15,shot,gun,,M,,Katy,TX,False,attack,Foot,False
 5035,Eric Carter,2019-09-16,shot,gun,53,M,B,Washington,DC,False,attack,Not fleeing,False
@@ -4591,7 +4591,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5045,John Emory Sawyer,2019-09-19,shot,unknown weapon,74,M,,Soddy Daisy,TN,True,other,Not fleeing,False
 5044,Jordan Michael Griffin,2019-09-20,shot,pellet gun,18,M,,Long Beach,CA,False,attack,Not fleeing,False
 5058,Adam Paul English,2019-09-20,shot,gun,21,M,,Gainesville,GA,False,attack,Not fleeing,True
-5049,Jeffrey Peterson,2019-09-21,shot,undetermined,29,M,,Ada,OK,False,attack,Not fleeing,False
+5049,Jeffrey Peterson,2019-09-21,shot,undetermined,29,M,W,Ada,OK,False,attack,Not fleeing,False
 5050,TK TK,2019-09-22,shot,gun,74,M,W,Austin,TX,False,attack,Not fleeing,False
 5046,TK TK,2019-09-23,shot,gun,,M,H,Los Angeles,CA,False,other,,False
 5047,Jeffery Tyler Aycock,2019-09-23,shot,gun,28,M,W,Floyd County,GA,False,attack,Foot,False
@@ -4627,9 +4627,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5078,Antonio Vasquez,2019-10-06,shot,knife,37,M,H,Los Angeles,CA,True,other,Not fleeing,False
 5088,TK TK,2019-10-06,shot,gun,,M,,Sacramento,CA,False,other,Not fleeing,True
 5085,Joshua Chase Conner,2019-10-07,shot,knife,31,M,W,Kountze,TX,False,other,Not fleeing,False
+5208,Bobby Lee Vaughn,2019-10-07,shot,gun,54,M,N,Tahlequah,OK,False,attack,Not fleeing,False
 5086,Crederick Joseph,2019-10-08,shot,baton,,M,,Beaumont,TX,False,attack,Not fleeing,False
 5087,Joseph Cimino,2019-10-08,shot,vehicle,48,M,,Lincoln,NE,False,attack,Not fleeing,False
 5083,Leo Craig,2019-10-09,shot,gun,31,M,B,Oklahoma City,OK,False,attack,,False
+5209,Michael John,2019-10-10,shot,gun,24,M,B,Oklahoma City,OK,False,attack,Not fleeing,false
 5084,Michael Uccello,2019-10-10,shot,undetermined,48,M,,Los Angeles,CA,False,undetermined,,False
 5098,Norbert Beyet,2019-10-10,shot,gun,58,M,,Farmington,NM,False,attack,Not fleeing,False
 5096,David Doyle,2019-10-11,shot,gun,56,M,,Tucson,AZ,True,attack,Not fleeing,False
@@ -4678,7 +4680,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5131,Nan Zhao,2019-10-26,shot,gun,45,M,A,Athens,GA,False,attack,Foot,True
 5133,TK TK,2019-10-26,shot,baseball bat,,M,,Imperial County,CA,False,other,Foot,False
 5134,Johnathan Wayne Slattery,2019-10-26,shot and Tasered,gun,27,M,,Walloon Lake,MI,True,attack,Not fleeing,False
-5135,Clayton Andrews,2019-10-26,shot,gun,40,M,,Creek County,OK,True,attack,Car,False
+5135,Clayton Andrews,2019-10-26,shot,gun,40,M,W,Creek County,OK,True,attack,Car,False
 5126,Dean Thomas,2019-10-27,shot,gun,63,M,W,Madison,WI,False,attack,Not fleeing,False
 5127,Dana Sherrod Fletcher,2019-10-27,shot and Tasered,gun,39,M,B,Madison,AL,False,attack,Not fleeing,False
 5129,Luis Arreguin-Lara,2019-10-27,shot,gun,50,M,H,Tulsa,OK,False,attack,Not fleeing,False
@@ -4724,7 +4726,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5182,TK TK,2019-11-11,shot,gun,,F,,Loveland,CO,False,attack,Not fleeing,False
 5183,TK TK,2019-11-11,shot,gun,,M,,Cedar City,UT,False,attack,Not fleeing,False
 5184,Sidney Alexis Renew,2019-11-11,shot,vehicle,20,F,W,Lakeland,FL,False,attack,Not fleeing,False
-5181,Justin Anderson,2019-11-12,shot,gun,39,M,,Oklahoma City,OK,False,attack,,False
+5181,Justin Anderson,2019-11-12,shot,gun,39,M,W,Oklahoma City,OK,False,attack,,False
 5195,Roy McAllister,2019-11-13,shot,undetermined,27,M,B,Wilson,NC,False,undetermined,Foot,False
 5197,Chris Ervie,2019-11-13,shot,knife,,M,W,Mandarin,FL,True,undetermined,Not fleeing,True
 5203,TK TK,2019-11-13,shot,sword,,M,,Los Angeles,CA,False,other,Foot,False
